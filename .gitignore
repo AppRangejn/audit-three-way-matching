@@ -12,4 +12,5 @@ __pycache__/
 Thumbs.db
 
 data/*.csv
+!data/.gitkeep
 audit_exceptions_p2p.csv
