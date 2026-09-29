@@ -43,3 +43,9 @@ python3 main.py
 
 - `audit_exceptions_p2p.csv` — file with all found errors and suspicious transactions.
 - Summary printed directly in the terminal.
+
+## Power BI Dashboard
+
+Interactive dashboard for fraud and exception tracking:
+
+![P2P Audit Dashboard](docs/dashboard.png)
